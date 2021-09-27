@@ -1,4 +1,4 @@
-# LogicHeap-Website
+# LogicHeap-Website-Traversy Media
 Cloud Hosting for everyone 
  
 
